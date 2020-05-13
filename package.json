@@ -1,0 +1,20 @@
+{
+  "name": "library-boilerplate",
+  "version": "1.0.0",
+  "description": "This is a general JavaScript library boilerplate.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estevanmaito/library-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estevanmaito/library-boilerplate/issues"
+  },
+  "homepage": "https://github.com/estevanmaito/library-boilerplate#readme"
+}
