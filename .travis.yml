@@ -1,6 +1,16 @@
 language: node_js
+cache: npm
+notifications:
+  email: false
 node_js:
   - 10.0.0
   - 12
   - 14
   - node
+install:
+  - npm install
+script:
+  - npm run test
+branches:
+  only:
+    - master
