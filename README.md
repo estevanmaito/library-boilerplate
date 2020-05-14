@@ -50,8 +50,8 @@ npm run setup
 ### Build
 
 - [ ] Demo build
-- [ ] Rollup
-- [ ] Babel
+- [x] Webpack
+- [x] Babel
 - [ ] UMD exports
 - [ ] postinstall
 
