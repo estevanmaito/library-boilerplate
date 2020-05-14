@@ -1,14 +1,15 @@
 {
   "name": "mylibrary-boilerplate",
-  "version": "1.2.0-beta.0",
+  "version": "0.0.0-development",
   "description": "This is a general JavaScript library boilerplate.",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest",
+    "semantic-release": "semantic-release"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/estevanmaito/library-boilerplate.git"
+    "url": "https://github.com/estevanmaito/library-boilerplate.git"
   },
   "keywords": [],
   "author": "Estevan Maito <ejmaito@gmail.com>",
@@ -16,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/estevanmaito/library-boilerplate/issues"
   },
-  "homepage": "https://github.com/estevanmaito/library-boilerplate#readme"
+  "homepage": "https://github.com/estevanmaito/library-boilerplate#readme",
+  "devDependencies": {
+    "jest": "26.0.1",
+    "semantic-release": "^17.0.7"
+  }
 }
