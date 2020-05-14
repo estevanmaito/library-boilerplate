@@ -1,5 +1,13 @@
 # Library boilerplate
 
+[![codecov](https://codecov.io/gh/estevanmaito/library-boilerplate/branch/master/graph/badge.svg)](https://codecov.io/gh/estevanmaito/library-boilerplate)
+
+[![Travis (.org)](https://img.shields.io/travis/estevanmaito/library-boilerplate)](https://travis-ci.com/github/estevanmaito/library-boilerplate)
+
+[![npm](https://img.shields.io/npm/v/mylibrary-boilerplate)](https://www.npmjs.com/package/mylibrary-boilerplate)
+
+![MIT License](https://img.shields.io/github/license/estevanmaito/library-boilerplate)
+
 This is a general JavaScript library boilerplate.
 
 ## Features
