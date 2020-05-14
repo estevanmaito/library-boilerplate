@@ -11,7 +11,7 @@ This is a general JavaScript library boilerplate.
 - [x] Husky
 - [ ] lint-staged
 - [x] Jest unit tests
-- [ ] Coverage tests
+- [x] Coverage tests
 
 ### Release automation
 

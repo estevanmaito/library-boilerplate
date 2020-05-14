@@ -18,8 +18,8 @@ describe('mylib says', () => {
   })
 
   describe('sing', () => {
-    it('should sing a song', () => {
-      expect(myLib.sing).toBe('Welcome to the jungle')
+    it('should return a string', () => {
+      expect(typeof myLib.sing()).toBe('string')
     })
   })
 })
