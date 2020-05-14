@@ -8,16 +8,16 @@ This is a general JavaScript library boilerplate.
 
 - [ ] Prettier
 - [ ] ESLint
-- [ ] Husky
+- [x] Husky
 - [ ] lint-staged
-- [ ] Jest unit tests
+- [x] Jest unit tests
 - [ ] Coverage tests
 
 ### Release automation
 
-- [ ] semantic-release
-- [ ] Travis CI
-- [ ] npm publish
+- [x] semantic-release
+- [x] Travis CI
+- [x] npm publish
 
 ### Repository
 
