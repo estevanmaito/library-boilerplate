@@ -6,6 +6,7 @@
   "scripts": {
     "commit": "git-cz",
     "test": "jest",
+    "codecov": "codecov",
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage",
     "semantic-release": "semantic-release"
