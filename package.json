@@ -1,6 +1,6 @@
 {
   "name": "mylibrary-boilerplate",
-  "version": "1.1.0",
+  "version": "1.2.0-beta.0",
   "description": "This is a general JavaScript library boilerplate.",
   "main": "src/index.js",
   "scripts": {
