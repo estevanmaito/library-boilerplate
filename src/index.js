@@ -1,5 +1,7 @@
-const sing = e => 'Welcome to the jungle';
+const sing = (e) => 'Welcome to the jungle'
 
 module.exports = {
-  sayHi: 'Hi', sayBye: "Bye", sing: sing
-};
+  sayHi: 'Hi',
+  sayBye: 'Bye',
+  sing: sing
+}

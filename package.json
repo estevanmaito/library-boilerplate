@@ -62,7 +62,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "npm run format && npm run lint && npm run test:coverage && git add"
+      "pre-commit": "npm run format && npm run lint && npm run test:coverage && git add ."
     }
   },
   "dependencies": {}
