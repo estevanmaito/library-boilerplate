@@ -28,7 +28,7 @@ This is a general JavaScript library boilerplate.
 
 ### Repository
 
-- [ ] License
+- [x] License
 - [ ] Code of Conduct
 - [ ] Roadmap
 - [ ] Simple setup
@@ -43,7 +43,7 @@ npm run setup
 
 - [ ] [Labels](https://help.github.com/en/github/managing-your-work-on-github/creating-a-label)
 - [ ] [Contributing](https://help.github.com/en/github/building-a-strong-community/setting-guidelines-for-repository-contributors)
-- [ ] [Issue templates](https://help.github.com/en/github/building-a-strong-community/about-issue-and-pull-request-templates#issue-templates)
+- [x] [Issue templates](https://help.github.com/en/github/building-a-strong-community/about-issue-and-pull-request-templates#issue-templates)
 - [ ] [Saved replies](https://help.github.com/en/github/writing-on-github/working-with-saved-replies)
 
 ### Build
