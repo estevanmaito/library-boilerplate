@@ -1,4 +1,4 @@
-const sing = (e) => 'Welcome to the jungle'
+const sing = () => 'Welcome to the jungle'
 
 module.exports = {
   sayHi: 'Hi',
