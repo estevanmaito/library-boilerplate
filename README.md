@@ -1,12 +1,15 @@
 # Library boilerplate
 
-[![codecov](https://codecov.io/gh/estevanmaito/library-boilerplate/branch/master/graph/badge.svg)](https://codecov.io/gh/estevanmaito/library-boilerplate)
+<p>
+<a href="https://codecov.io/gh/estevanmaito/library-boilerplate"><img src="https://codecov.io/gh/estevanmaito/library-boilerplate/branch/master/graph/badge.svg" alt="codecov" /></a>
 
-[![Travis (.org)](https://img.shields.io/travis/estevanmaito/library-boilerplate)](https://travis-ci.com/github/estevanmaito/library-boilerplate)
+<a href="https://travis-ci.com/github/estevanmaito/library-boilerplate"><img src="https://img.shields.io/travis/estevanmaito/library-boilerplate" alt="Travis (.org)" /></a>
 
-[![npm](https://img.shields.io/npm/v/mylibrary-boilerplate)](https://www.npmjs.com/package/mylibrary-boilerplate)
+<a href="https://www.npmjs.com/package/mylibrary-boilerplate"><img src="https://img.shields.io/npm/v/mylibrary-boilerplate" alt="npm" /></a>
 
-![MIT License](https://img.shields.io/github/license/estevanmaito/library-boilerplate)
+<a href="https://github.com/estevanmaito/library-boilerplate/blob/master/LICENSE.md"><img src="https://img.shields.io/github/license/estevanmaito/library-boilerplate" alt="MIT License" /></a>
+
+</p>
 
 This is a general JavaScript library boilerplate.
 
