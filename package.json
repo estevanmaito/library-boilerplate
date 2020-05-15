@@ -13,6 +13,8 @@
     "codecov": "codecov",
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage",
+    "format": "prettier --write **/*.js",
+    "lint": "eslint **/*.js --fix",
     "prebuild": "rimraf dist",
     "build": "webpack",
     "semantic-release": "semantic-release"
@@ -36,7 +38,19 @@
     "codecov": "3.6.5",
     "commitizen": "4.1.2",
     "cz-conventional-changelog": "3.2.0",
+    "eslint": "7.0.0",
+    "eslint-config-prettier": "6.11.0",
+    "eslint-config-standard": "14.1.1",
+    "eslint-plugin-import": "2.20.2",
+    "eslint-plugin-node": "11.1.0",
+    "eslint-plugin-prettier": "3.1.3",
+    "eslint-plugin-promise": "4.2.1",
+    "eslint-plugin-standard": "4.0.1",
+    "husky": "4.2.5",
     "jest": "26.0.1",
+    "lint-staged": "10.2.2",
+    "prettier": "2.0.5",
+    "prettier-standard": "16.3.0",
     "rimraf": "3.0.2",
     "semantic-release": "^17.0.7",
     "webpack": "4.43.0",
@@ -51,6 +65,14 @@
     "hooks": {
       "pre-commit": "npm run test:coverage"
     }
+  },
+  "lint-staged": {
+    "*.js": [
+      "npm run format",
+      "npm run lint",
+      "npm run test:coverage",
+      "git add"
+    ]
   },
   "dependencies": {}
 }

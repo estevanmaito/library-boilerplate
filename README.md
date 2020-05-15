@@ -14,10 +14,10 @@ This is a general JavaScript library boilerplate.
 
 ### Code quality
 
-- [ ] Prettier
-- [ ] ESLint
+- [x] Prettier
+- [x] ESLint
 - [x] Husky
-- [ ] lint-staged
+- [x] lint-staged
 - [x] Jest unit tests
 - [x] Coverage tests
 
