@@ -1,14 +1,10 @@
 # Library boilerplate
 
 <p>
-<a href="https://codecov.io/gh/estevanmaito/library-boilerplate"><img src="https://codecov.io/gh/estevanmaito/library-boilerplate/branch/master/graph/badge.svg" alt="codecov" /></a>
-
-<a href="https://travis-ci.com/github/estevanmaito/library-boilerplate"><img src="https://img.shields.io/travis/estevanmaito/library-boilerplate" alt="Travis (.org)" /></a>
-
-<a href="https://www.npmjs.com/package/mylibrary-boilerplate"><img src="https://img.shields.io/npm/v/mylibrary-boilerplate" alt="npm" /></a>
-
-<a href="https://github.com/estevanmaito/library-boilerplate/blob/master/LICENSE.md"><img src="https://img.shields.io/github/license/estevanmaito/library-boilerplate" alt="MIT License" /></a>
-
+  <a href="https://codecov.io/gh/estevanmaito/library-boilerplate"><img src="https://codecov.io/gh/estevanmaito/library-boilerplate/branch/master/graph/badge.svg" alt="codecov" /></a>
+  <a href="https://travis-ci.com/github/estevanmaito/library-boilerplate"><img src="https://img.shields.io/travis/estevanmaito/library-boilerplate" alt="Travis (.org)" /></a>
+  <a href="https://www.npmjs.com/package/mylibrary-boilerplate"><img src="https://img.shields.io/npm/v/mylibrary-boilerplate" alt="npm" /></a>
+  <a href="https://github.com/estevanmaito/library-boilerplate/blob/master/LICENSE"><img src="https://img.shields.io/github/license/estevanmaito/library-boilerplate" alt="MIT License" /></a>
 </p>
 
 This is a general JavaScript library boilerplate.
