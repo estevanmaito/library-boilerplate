@@ -29,7 +29,7 @@ This is a general JavaScript library boilerplate.
 ### Repository
 
 - [x] License
-- [ ] Code of Conduct
+- [x] Code of Conduct
 - [ ] Roadmap
 - [ ] Simple setup
 
@@ -53,18 +53,6 @@ npm run setup
 - [x] Babel
 - [ ] UMD exports
 - [ ] postinstall
-
-### Library
-
-- [ ] Explain the problem
-- [ ] Explain the solution
-- [ ] Installation
-- [ ] API Documentation
-- [ ] Examples
-- [ ] Tutorials
-- [ ] Blogposts
-- [ ] Screencasts
-- [ ] Talks
 
 ### Future boilerplates
 
