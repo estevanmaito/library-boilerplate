@@ -8,7 +8,7 @@
     "README.md"
   ],
   "scripts": {
-    "commit": "git-cz",
+    "cz": "git-cz",
     "test": "jest",
     "codecov": "codecov",
     "test:watch": "jest --watch",
