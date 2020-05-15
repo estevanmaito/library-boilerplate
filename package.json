@@ -70,8 +70,7 @@
     "*.js": [
       "npm run format",
       "npm run lint",
-      "npm run test:coverage",
-      "git add"
+      "npm run test:coverage"
     ]
   },
   "dependencies": {}
