@@ -22,4 +22,10 @@ describe('mylib says', () => {
       expect(typeof myLib.sing()).toBe('string')
     })
   })
+
+  describe('greeting', () => {
+    it('should greeting given a name', () => {
+      expect(myLib.greeting('Estevan')).toBe('Hello Estevan')
+    })
+  })
 })

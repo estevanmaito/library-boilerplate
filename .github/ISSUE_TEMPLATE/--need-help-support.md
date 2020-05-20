@@ -1,6 +1,6 @@
 ---
 name: "❓ Need help/support"
-about: Describe this issue template's purpose here.
+about: If you have a question 💬, please check out our support channels! 
 title: ''
 labels: ''
 assignees: ''
